@@ -1,0 +1,1 @@
+open Git-Bash-Here application
